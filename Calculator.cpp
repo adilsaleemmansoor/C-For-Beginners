@@ -2,7 +2,7 @@
 #include <cstdlib>
 using namespace std;
 
-<!---------->
+<!-----My Calculator----->
 int main()
 {
 	char op;
